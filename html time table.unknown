@@ -1,0 +1,69 @@
+<html>
+<head>
+   <title>time table</title>
+</head>
+<body bgcolor="skyblue">
+<H1><FONT COLOR="DARKCYAN"><CENTER> TIME TABLE</FONT></H1>
+<table border="2" cellspacing="3" align="center">
+<tr>
+ <td align="center">Time/Day
+ <td>9:30-10:40
+ <td>10:40-11:40
+ <td>11:50-12:50
+ <td>12:50-1:40
+ <td>1:40-2:40
+ <td>2:40-3:40
+</tr>
+<tr>
+ <td align="center">MONDAY
+ <td align="center">SARA<td align="center"><font color="blue">CC<br>
+ <td align="center"><font color="pink">FSD<br>
+ <td rowspan="7"align="center">L<br>U<br>N<br>C<br>H
+ <td align="center"><font color="maroon">BT<br>
+ <td align="center"><font color="brown">DF<br>
+</tr>
+<tr>
+ <td align="center">TUESDAY
+ <td align="center"><font color="blue">BT<br>
+ <td align="center"><font color="red">SARA<br>
+ <td align="center"><font color="pink">FSD<br>
+ <td align="center"><font color="orange">DF<BR>
+ <td align="center"><font color="maroon">CC<br>
+ 
+</tr>
+<tr>
+ <td align="center">WEDNESDAY
+ <td align="center"><font color="pink">FSD<br>
+ <td align="center"><font color="orange">BT<br>
+ <td align="center"><font color="brown">CC<br>
+ <td colspan="3" align="center"><font color="green"> BT LAB
+</tr>
+<tr>
+ <td align="center">THURSDAY
+ <td align="center">BT<br>
+ <td align="center"><font color="brown">CC<br>
+ <td align="center"><font color="orange">SARA<br>
+ <td align="center"><font color="blue">FSD<br>
+ <td align="center"><font color="red">TUTORIAL<br>
+
+</tr>
+<tr>
+ <td align="center">FRIDAY
+ <td align="center"><font color="orange">DF<BR>
+ <td align="center"><font color="maroon">SARA<br>
+ <td align="center"><font color="blue">CC<br>
+ <td align="center"><font color="pink">FSD<br>
+ <td align="center"><font color="brown">BT<br>
+
+</tr>
+<tr>
+ <td align="center">SATURDAY
+ <td align="center"><font color="red">FSD<br>
+ <td colspan="2" align="center">FSD LAB
+ <td align="center"><font color="pink">SARA<br>
+ <td align="center"><font color="brown">DF<br>
+
+</tr>
+</body>
+</html>
+
