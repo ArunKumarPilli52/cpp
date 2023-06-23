@@ -1,1 +1,55 @@
-hello
+
+C:\Users\arunk\Desktop\Github>git init
+Reinitialized existing Git repository in C:/Users/arunk/Desktop/Github/.git/
+
+C:\Users\arunk\Desktop\Github>git status
+On branch sub-arun
+nothing to commit, working tree clean
+
+C:\Users\arunk\Desktop\Github>notepad file2.txt
+
+C:\Users\arunk\Desktop\Github>git status
+On branch sub-arun
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        file2.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\arunk\Desktop\Github>git add file2.txt
+
+C:\Users\arunk\Desktop\Github>git commit -m "file2"
+[sub-arun 5b4e368] file2
+ 1 file changed, 1 insertion(+)
+ create mode 100644 file2.txt
+
+C:\Users\arunk\Desktop\Github>git checkout -b main
+fatal: a branch named 'main' already exists
+
+C:\Users\arunk\Desktop\Github>git branch
+  main
+* sub-arun
+
+C:\Users\arunk\Desktop\Github>git checkout main
+Switched to branch 'main'
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+C:\Users\arunk\Desktop\Github>git checkout sub-arun
+Switched to branch 'sub-arun'
+
+C:\Users\arunk\Desktop\Github>git status
+On branch sub-arun
+nothing to commit, working tree clean
+
+C:\Users\arunk\Desktop\Github>git push origin sub-arun
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 331 bytes | 331.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/ArunKumarPilli52/cpp.git
+   1880781..5b4e368  sub-arun -> sub-arun
+
+C:\Users\arunk\Desktop\Github>
