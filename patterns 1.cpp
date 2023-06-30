@@ -15,3 +15,14 @@ int main()
         cout<<endl;
     }
 }
+
+
+/*
+output:
+enter a number:5
+*
+**
+***
+****
+*****
+*/
