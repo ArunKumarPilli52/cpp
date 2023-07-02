@@ -1,4 +1,3 @@
-// Online C++ compiler to run C++ program online
 #include <iostream>
 using namespace std;
 int main() 
@@ -14,4 +13,14 @@ int main()
         }
         cout<<endl;
     }
+    return 0;
 }
+
+/*
+enter a number:5
+*
+**
+***
+****
+*****
+*/
