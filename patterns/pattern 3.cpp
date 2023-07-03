@@ -6,12 +6,25 @@ int main()
     int n;
     cout<<"enter a number:";
     cin>>n;
-    for(int i=5;i>=n;i--)
+    for(int i=1;i<=n;i++)
     {
-      for(int j=1;j<=i;j++)
+      for(int j=n;j>=i;j--)
       {
           cout<<"*";
       }
       cout<<endl;
     }
+    return 0;
 }
+
+/*
+
+enter a number:6
+******
+*****
+****
+***
+**
+*
+
+*/
