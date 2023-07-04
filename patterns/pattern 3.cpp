@@ -18,7 +18,7 @@ int main()
 }
 
 /*
-
+output:
 enter a number:6
 ******
 *****
