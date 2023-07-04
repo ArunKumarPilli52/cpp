@@ -21,3 +21,14 @@ int main()
   return 0;
   
 }
+
+/*
+
+enter the number:5
+*****
+ ****
+  ***
+   **
+    *
+
+  */
