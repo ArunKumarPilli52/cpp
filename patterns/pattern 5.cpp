@@ -23,6 +23,7 @@ int main()
 }
 
 /*
+
 output:
 enter the number:5
 *****
