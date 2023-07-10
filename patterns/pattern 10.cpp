@@ -18,3 +18,16 @@ int main()
     }
     return 0;
 }
+
+/*
+
+output:
+enter a number:6
+ 1
+ 2 2
+ 3 3 3
+ 4 4 4 4
+ 5 5 5 5 5
+ 6 6 6 6 6 6
+
+*/
