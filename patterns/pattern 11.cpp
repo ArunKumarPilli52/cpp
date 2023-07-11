@@ -21,6 +21,7 @@ int main()
 
 /*
 
+output:
 enter a number:6
 123456
 12345
