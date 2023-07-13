@@ -27,3 +27,17 @@ int main()
    
   return 0;
 }
+
+
+/*
+
+output:
+enter a number:5
+    1
+   121
+  12321
+ 1234321
+123454321
+
+
+*/
