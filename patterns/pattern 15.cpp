@@ -24,3 +24,16 @@ int main()
     }
     return 0;
 }
+
+
+/*
+
+output:
+enter a number:5
+****
+  ****
+   ****
+    ****
+     ****
+
+*/
